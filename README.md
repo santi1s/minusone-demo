@@ -30,3 +30,4 @@ docker run -p 8080:8080 -e VERSION=v1.0.0 minusone-demo:latest
 ```bash
 curl http://localhost:8080/health
 ```
+
